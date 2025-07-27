@@ -15,7 +15,9 @@
 - 💬 Ask me about <b>Software Development</b>.
 - 📄 View my <b><a target="_blank" href="">Resume</a></b>
 - 📫 Reach me at: <b><a target="_blank" href="mailto:introvertdeveloper7@gmail.com">Email</a></b>
+- 📝 I write articles on : <b><a target="_blank" href="https://medium.com/@introvertdeveloper7">Email</a></b>
 - 👨‍💻 Check out my: <b><a target="_blank" href="">Portfolio</a></b>
+- ⚡ Fun fact : <b> I think i am very funny </b>
 - <img src="https://komarev.com/ghpvc/?username=Ashishkumar448&style=flat-square&color=000000" alt="Profile views" />
 
 <br>
