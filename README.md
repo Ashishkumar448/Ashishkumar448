@@ -20,4 +20,5 @@
 
 <br>
 ---
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashishkumar448&theme=2077)
+
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashishkumar448&theme=2077" height="200em"  />
