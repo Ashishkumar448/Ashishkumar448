@@ -1,16 +1,23 @@
-## Hi there 👋
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hi, I'm Niladri Chatterjee</h1>
 
-<!--
-**Ashishkumar448/Ashishkumar448** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">💻 Computer Science student with a passion for coding and technology.</h3>
 
-Here are some ideas to get you started:
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer+%7C+MERN+Specialist;Crafting+elegant+solutions+to+complex+problems;Speed%2C+Security+and+Style+Delivered!;Less+Code%2C+More+Impact.;Real-time%2C+all+the+time." alt="Typing SVG" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=niladri-1&theme=2077" height="200em"  />
+
+- 🔭 Currently working on <b>Real Time Projects</b>.
+- 👯 Looking to collaborate on <b>Building 3D website</b>.
+- 🤝 Seeking assistance with <b>Full Stack Projects</b>.
+- 🌱 Learning <b>MERN Stack Concepts</b>.
+- 💬 Ask me about <b>Software Development</b>.
+- 📄 View my <b><a target="_blank" href="https://niladri1.vercel.app/files/cv_pdf/Niladri_Chatterjee(CV).pdf">Resume</a></b>
+- 📫 Reach me at: <b><a target="_blank" href="mailto:code.niladri+readme@gmail.com">Email</a></b>
+- 👨‍💻 Check out my: <b><a target="_blank" href="https://niladri1.vercel.app">Portfolio</a></b>
+- <img src="https://komarev.com/ghpvc/?username=niladri-1&style=flat-square&color=000000" alt="Profile views" />
+
+<br>
+
+---
