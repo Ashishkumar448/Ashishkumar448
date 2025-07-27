@@ -16,7 +16,7 @@
 - 📄 View my <b><a target="_blank" href="">Resume</a></b>
 - 📫 Reach me at: <b><a target="_blank" href="mailto:introvertdeveloper7@gmail.com">Email</a></b>
 - 👨‍💻 Check out my: <b><a target="_blank" href="">Portfolio</a></b>
-- <img src="https://komarev.com/ghpvc/?username=niladri-1&style=flat-square&color=000000" alt="Profile views" />
+- <img src="https://komarev.com/ghpvc/?username=Ashishkumar448&style=flat-square&color=000000" alt="Profile views" />
 
 <br>
 
