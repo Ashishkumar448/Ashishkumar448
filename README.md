@@ -13,7 +13,7 @@
 - 🤝 Seeking assistance with <b>Full Stack Projects</b>.
 - 🌱 Learning <b>MERN Stack Concepts</b>.
 - 💬 Ask me about <b>Software Development</b>.
-- 📄 View my <b><a target="_blank" href="">Resume</a></b>
+- 📄 Know about my experiences <b><a target="_blank" href="">Resume</a></b>
 - 📫 Reach me at: <b><a target="_blank" href="mailto:introvertdeveloper7@gmail.com">Email</a></b>
 - 📝 I write articles on : <b><a target="_blank" href="https://medium.com/@introvertdeveloper7">Email</a></b>
 - 👨‍💻 Check out my: <b><a target="_blank" href="">Portfolio</a></b>
