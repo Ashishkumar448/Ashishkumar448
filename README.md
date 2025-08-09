@@ -3,7 +3,7 @@
 <h3 align="center">💻 Computer Science student with a passion for Technology, Electronics and Hacking.</h3>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer+%7C+MERN+Specialist;Crafting+elegant+solutions+to+complex+problems;Speed%2C+Security+and+Style+Delivered!;Less+Code%2C+More+Impact.;Real-time%2C+all+the+time." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer+%7C+MERN+Specialist;Crafting+elegant+solutions+to+complex+problems;Speed%2C+Security+and+Style+Delivered!;Less+Code%2C+More+Impact.+quality+Design;Real-time%2C+all+the+time." alt="Typing SVG" />
 </div>
 
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashishkumar448&theme=2077" height="200em"  />
