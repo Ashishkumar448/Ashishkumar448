@@ -24,15 +24,6 @@
 
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ashishkumar448&theme=2077" height="300em"  />
 
----
-
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashishkumar448&theme=2077" height="230em"  />
-<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ashishkumar448&theme=2077" height="230em"  />
-
-
-
-
-
 
 ---
 
