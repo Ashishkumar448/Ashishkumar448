@@ -38,6 +38,20 @@
 
 ###
 
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -239,17 +253,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
