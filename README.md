@@ -13,10 +13,10 @@
 - 🤝 Seeking assistance with <b>Full Stack Projects</b>.
 - 🌱 Learning <b>MERN Stack Concepts</b>.
 - 💬 Ask me about <b>Software Development</b>.
-- 📄 Know about my experiences <b><a target="_blank" href="">Resume</a></b>
+- 📄 Know about my experiences <b><a target="_blank" href="https://github.com/Ashishkumar448/Ashishkumar448/blob/main/ASHISH%20KUMAR%20JENA%20Resume.pdf">Resume</a></b>
 - 📫 Reach me at: <b><a target="_blank" href="mailto:introvertdeveloper7@gmail.com">Email</a></b>
-- 📝 I write articles on : <b><a target="_blank" href="https://medium.com/@introvertdeveloper7">Email</a></b>
-- 👨‍💻 Check out my: <b><a target="_blank" href="">Portfolio</a></b>
+- 📝 I write articles on : <b><a target="_blank" href="https://medium.com/@introvertdeveloper7">@introvertdeveloper7</a></b>
+- 👨‍💻 Check out my: <b><a target="_blank" href="https://ashish-portf.netlify.app/">Portfolio</a></b>
 - ⚡ Fun fact : <b> I think i am very funny </b>
 - <img src="https://komarev.com/ghpvc/?username=Ashishkumar448&style=flat-square&color=000000" alt="Profile views" />
 
