@@ -8,10 +8,6 @@
 
 <img width="2831" height="3936" alt="ascii-art" src="https://github.com/user-attachments/assets/b4fc6c86-81ea-433c-b371-9a02b8e5f3c2" />
 
-
-<img width="2831" height="3936" alt="ascii-art" src="https://github.com/user-attachments/assets/4931de68-f124-4c04-9524-a6eca09a7061" />
-
-
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashishkumar448&theme=2077" height="200em"  />
 
 - 🔭 Currently working on <b>Real Time Projects</b>.
