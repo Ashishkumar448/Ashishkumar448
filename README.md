@@ -8,8 +8,7 @@
 
 <img width="283" height="393" alt="ascii-art" src="https://github.com/user-attachments/assets/b4fc6c86-81ea-433c-b371-9a02b8e5f3c2" />
 
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashishkumar448&theme=2077" height="200em"  />
-
+- <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashishkumar448&theme=2077" height="200em"  />
 - 🔭 Currently working on <b>Real Time Projects</b>.
 - 👯 Looking to collaborate on <b>Building 3D website</b>.
 - 🤝 Seeking assistance with <b>Full Stack Projects</b>.
@@ -20,7 +19,10 @@
 - 📝 I write articles on : <b><a target="_blank" href="https://medium.com/@introvertdeveloper7">@introvertdeveloper7</a></b>
 - 👨‍💻 Check out my: <b><a target="_blank" href="https://ashish-portf.netlify.app/">Portfolio</a></b>
 - ⚡ Fun fact : <b> I think i am very funny </b>
-- <img src="https://komarev.com/ghpvc/?username=Ashishkumar448&style=flat-square&color=000000" alt="Profile views" />
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Ashishkumar448&style=flat-square&color=000000" alt="Profile views" />
 
 <br>
 
