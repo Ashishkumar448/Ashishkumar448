@@ -6,11 +6,11 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer+%7C+MERN+Specialist;Crafting+elegant+solutions+to+complex+problems;Speed%2C+Security+and+Style+Delivered!;Less+Code%2C+More+Impact.+quality+Design;Real-time%2C+all+the+time." alt="Typing SVG" />
 </div>
 
-<img width="283" height="393" alt="ascii-art" src="https://github.com/user-attachments/assets/b4fc6c86-81ea-433c-b371-9a02b8e5f3c2" />
+
 
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashishkumar448&theme=2077" height="200em"  />
 
-
+- <img width="283" height="393" alt="ascii-art" src="https://github.com/user-attachments/assets/b4fc6c86-81ea-433c-b371-9a02b8e5f3c2" />
 - 🔭 Currently working on <b>Real Time Projects</b>.
 - 👯 Looking to collaborate on <b>Building 3D website</b>.
 - 🤝 Seeking assistance with <b>Full Stack Projects</b>.
