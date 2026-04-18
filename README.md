@@ -6,6 +6,83 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=600&height=50&lines=Full+Stack+Developer+%7C+MERN+Specialist;Crafting+elegant+solutions+to+complex+problems;Speed%2C+Security+and+Style+Delivered!;Less+Code%2C+More+Impact.+quality+Design;Real-time%2C+all+the+time." alt="Typing SVG" />
 </div>
 
+```
+                                                    .iiIIi                                  
+                                                  iIiiiiIIIII                               
+                                                  ll  ;llIIllllI                            
+                                            il!ttTfTTTTtI::::,,,;Ili                        
+                                         I!TTli,,,:iI!TtlI;::,,,,::;lIi  i                  
+                                     .iII!!IiIl!I;::i;;Ili:;:::,,,;I;llI:lI                 
+                                    ;iII;lli:,,,,,,,:,:::,,,:;::,,,II,::;il                 
+                                   ;IlIlFI:,,,,,,,,,,:::,,,,,,,,,:i;;,,,,:lIi               
+                               ;iiII!!ltT;,,,,,,,:iiIllltt!Ii;:::;i::,,,,::,iI              
+                               ;iIllt!ljji:,,,:i!ruuvvnxrjjFT!IIII;::,,,,,,,,:: ;;;,        
+                                iiI!t!Tt!l;:,;lfvUJUYXzccunxjT!Ftl;::,,,,,,,,,:ii;i;        
+                               ;iI!!lTl;I:::,I!FcCCUYXzccvxjfttli:::,,,,,,,,,,,,II;:        
+                               ll!IIli;i;,:::tTfnUCUXXcvvuvnxj!I;::::,,,,,,,,,,,ii          
+                              ;IIlI;iltl;:::;FxnXJCUXzvczXYzcnFiI;::::,,,,,,,,,,;;          
+                              ;Iltt!iIlI::;:lzUCCCCJXzvzXXUXvxrt:;:::::,:;,,,,,,i           
+                               il!li;;:;!!l!xnvnFfFjrxnvvvujTIi;,,,,,::;i:,,,,::;.          
+                                ItTTtI;I!FfFxFttlltfFjrrjjjfT!IIltt!!!ll!;,,,,::i           
+                                 Ii;;:::ccvzcrT!llllTFrnrFftI:,,iflilTFFT!,,,,:;:           
+                                  li:I;:cYXxli;;TuF!!rYQYxT!IiII!TTTt!tTfT:,,,:;            
+                                   !!litLQLLQLYvjTfrXLmQYnft!!TTTTffffTTTfI,,IlI            
+                                   cYcTfLmwqwmQQLCQqqwwQUufttTfffFFjjFFFfFT:lt!!            
+                                   cvxvxLmqpqwQLQQwqwwqwJcrfttfFFFFFjFjFFjF;!T!l            
+                                   cvzYnLQmwwwmmQLCJwwwQYuxjjFTFjjjFFFFFjjfIIltt            
+                                    LCnnCQQLLQQQLUYCzrruxjfllTTfFjjjFFFFjjtII!t!            
+                                    CQUvYLCCCCLLCULmJcvxFTlII!TFFFjFfFFFFFI!fT!             
+                                     QmQzJJJJCCQQCLLXFtlitfI::iIltFFFfFffflTfff             
+                                     LwwCUUUJCCLUrttrjTfFFT!lli:,:ITFffTfTlTTl              
+                                      LLYYJJJJJUFliII!FF!lllli;:;;;tffffff!                 
+                                         YYJCJUYuFxvYJUznrFTttTTttTffffft!                  
+                                         czYUJUUYXUUXvrti;;i!TffT!!Tfftt!I                  
+                                          xvzXUJUYYYUYXXvrfTTffT!II!!!!lI                   
+                                          YUcnzXXvcYCLCXnjjfttTtlIllII!I                    
+                                          UCLYvxrrnuvcuFT!tt!lIII;;;lTf                     
+                                          UJLLLUvF!!fFf!llIlI;:::iI!TTT                     
+                                         YYUCLQJYzux!iii;;:;;;iiIltTTTf                     
+                                       YUUUYJQQJUXvnrFtlIllllllIl!TfTT                      
+                                   bhhbQJYYYJLLJYzvurFTt!lllllttTTfTTf                      
+                                oaahhhhkbqJcXJCJYcnxrFT!llllll!tTfTTT                       
+                             WkhhkbkkhhkpqqmUzYYXcnrFft!l!lIIl!tTTTTT                       
+                           bhhhkkddkbdpdkpwmqwLXzvxjftt!!!llll!tTffff                       
+                        bhahkkkkhkqqdpmwdbdwmwqqmYxFTttt!!!!!!!!tTTTT                       
+                     QkhhhkkhhhkbbdmmqwLLqddpQmqwwwCjtttttt!!!t!!tTf                        
+                   khaahkkhhhhkbdpqmLLQLUJQqpdwLwpqmQLXjtttt!!!!!tTT                        
+                 hhaaaahhhhhhkkbdwmmQLCJUUUJQwpqmwqqwwLCJzrf!!!!!tTfl                       
+               bhaaaahhhhkhkkkbbpmLLmQCJUYYYYULwmmmmQLCJJUUUznF!!tlinz                      
+             WhaaaaaahhhhkkkbbddpqQCJJUUYYYYYYYJQQQLJJYYYYUYUUUUYcnxXXzz                    
+            aaaaaaaahhhhkkkbbdpqwmwmCUYYYYYXXYYYUJCLCUYYYYXYYUUUUUJJUYXXzz                  
+           kaaaaaaahhhhkkkbbdpqwwQCLQLUYYYYYYYYYYUUUJJUYYXXYYYYYUUJJUYYXXzzu                
+          aaaaaaahhhhhhkkbbdppwmQwLJJLmCXYYYYXYYYYUUYUUUYXXYYYYXXYYUYYXXXXXzzn              
+         aaaaaaaaaahhhkkbbbdppqmLLQLJULqCXYYYYYYYYYUYYYUYYYYYYYYYYYXXXXXXXXzzzz             
+        haaaaaaaahhhhkkkbbddpwqmLJJLCUYCwJYXYYYXYYYYYYYYYYYYYYYYYYYYXXXXXXXXzzXzz           
+       khahaaahhhahhkkkbbdddpmQwQUYUCCUYCmUXXYYYXYYYYYYYYYYYYYYYYXYYXYXXYXXXXXXXz           
+      khhhaahhahhhhhkkbbddppdwJLQJUYUJUYXLCYXXYYYYYYYYYYYYYYYYYYYYYYYYYYXXXXXXXXXX          
+      kkkhahhahhhhhkkkbbppqqdqCULLUYYUUUYYCUXXYYYYYYYYYYYYYYYYYYYYYYYYYYYXXYXXXXXXc         
+     hkbhahaahhhhkkkkkkdqwqwqdQYUCUYYYUUYXUJYXXYYYYYYYYYYYYYYYYYYYYYYYYYYYXXXXXXYXX         
+    phbbahhaahhhhkkkkkkdwmwmQqqJYUUYYYYUYXXJYXXYYYYYYYYYYYYYYYYYYYYYYYYYXYYXYXXXYYXz        
+    bkbkhhaaahhahkbbkkkpLLmQCwpQUUUUYUYUYYXJUXXYUUYYUUYYYYYYYYYYYYYYYYYYYYXYYXXXXYYX        
+    pkbhaaaahhaahbbbbkkpCJJLJCqwJYYUYYYYUYzJUXYUUUYYUUUYYYYYYYYYYYYYYYYYYYYYXYXXXYYY        
+     khhaaahhaahkkbbbbbdQJUJUULwCYYUUYYYUXvJUXUUUUUUUUYYYYYYYYYYYYYYYYYYYYYYYYXXXYYY;       
+     hhaaahhaaahkbbddbbbQJUUUUJQLUYYYUYYUzuJYUUUYUUUUYYYYYYYYYYYYYYYYYYYYYYYYYYYXYYYX       
+     khaahhahhakbbdpddbbqCUUUUUJCJUYYUYYUccUUUYYYUJUYYYYYUYYYYYYYYYYYYYYYYXYYYYYYYYYY       
+     baahaahhhhkkbpppppdpQJUUUUUUUUYYYYXYvYUYYXYUJUUYYYYYUYYYYYYYYYYYYYYYYXXYYYYYYYYYz      
+     khaaahhhahkbbppqwqqpwCUUYYUJUUUYYYzYuUUYXYUJUUYYYYUUUYYUYYYYYYYYYYYYYYYYYYYYYYYYU      
+     haaahhhaakbbbpqwmwwwwQJUUYYUUUUYYYzYvYYXXUJJUYYYUUUUUYYUYYYYYYYYYYYYYYYYYYYYYYYYY      
+     haahhaaahkbbbdqwmQQQQLJUUUYYUUUYYXczzYXXYUUUUYYYUUUUYUUUYYYYYYYYYYYUYYYYYYYYYYYYY      
+     hahhaaahhkbdbdpwmLCLLLLJUUUYYUUUYzcvzzzYUUUYYYUUUUUYYUUYYYYYYYYYYYYUYYYYYYYYYYYYY      
+     haaaaahahkbdppqqqmCCCCJJUUUYYYUUUzvxucXUUUUYYYYUUUYYYYYUUYUYYYYYYUYYYYYYYYYYYYYYY      
+    whaaaaaaahdpqwppqqQCCJJJUUUUYYYYUUcrncXYYYYYYYYUUYYYYYYYUUYYYYYYYYUYYYYYYYYYYYYYUYz     
+
+```
+
+
+
+
+
+
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ashishkumar448&theme=2077" height="200em"  />
 
 - 🔭 Currently working on <b>Real Time Projects</b>.
