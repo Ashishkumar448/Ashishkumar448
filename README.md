@@ -17,7 +17,7 @@
 <!-- TYPING ANIMATION -->
 <div align="center">
   <a href="https://ashish-portf.netlify.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=A960FF&center=true&vCenter=true&random=false&width=900&height=50&lines=%E2%9C%A8+Crafting+elegant+solutions+to+complex+problems;%F0%9F%94%A5+Speed%2C+Security+%26+Style+—+Delivered!;%F0%9F%92%A1+Less+Code%2C+More+Impact.+Quality+Design;%E2%9A%A1+Real-time%2C+all+the+time." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=A960FF&center=true&vCenter=true&random=false&width=900&height=50&lines=Crafting+elegant+solutions+to+complex+problems;Speed%2C+Security+%26+Style+-+Delivered!;Less+Code%2C+More+Impact.+Quality+Design;Real-time%2C+all+the+time." alt="Typing SVG" />
   </a>
 </div>
 
